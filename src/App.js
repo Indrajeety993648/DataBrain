@@ -14,7 +14,7 @@ function App() {
               <div className="flex space-x-7">
                 <div>
                   <Link to="/" className="flex items-center py-4 px-2">
-                    <span className="font-semibold text-gray-500 text-lg">MultiFeature App</span>
+                    <span className="font-semibold text-gray-500 text-lg">DataBrain</span>
                   </Link>
                 </div>
                 <div className="hidden md:flex items-center ml-auto space-x-4">
